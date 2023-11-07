@@ -39,4 +39,4 @@ class Student:
         """
         for k, v in json.items():
             setattr(self, k, v)
-
+# The end of the code
