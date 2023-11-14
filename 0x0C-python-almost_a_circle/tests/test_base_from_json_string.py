@@ -63,4 +63,3 @@ class TestBase_from_json_string(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-# The end

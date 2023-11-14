@@ -96,4 +96,3 @@ class TestBase_instantiation(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-# The end
