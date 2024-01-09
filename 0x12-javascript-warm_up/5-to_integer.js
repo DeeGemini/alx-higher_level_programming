@@ -5,3 +5,4 @@ if (isNaN(process.argv[2]) || process.argv[2] === undefined) {
   console.log('My number:', parseInt(process.argv[2]));
 }
 
+/* End of code */
