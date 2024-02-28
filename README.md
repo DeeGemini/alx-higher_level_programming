@@ -1,1 +1,1 @@
-High level programming incl Python
+JavaScript Web jQuery Project
